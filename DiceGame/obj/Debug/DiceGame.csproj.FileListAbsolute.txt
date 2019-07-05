@@ -1,0 +1,6 @@
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+D:\Dev\src\_LearnProject\DataManagement\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
