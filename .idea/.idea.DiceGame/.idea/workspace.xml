@@ -24,10 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6251a9b4-eb6b-415c-bdb4-9e60d576b3b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DiceGame.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiceGame/DiceGame.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiceGame/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiceGame/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiceGame/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +37,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DiceGame/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="252">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
               <folding>
-                <marker date="1562312589162" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562312589162" expanded="true" signature="67:640" ph="{...}" />
-                <marker date="1562312589162" expanded="true" signature="96:638" ph="{...}" />
-                <marker date="1562312589162" expanded="true" signature="158:632" ph="{...}" />
+                <marker date="1562312836756" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562312836756" expanded="true" signature="67:764" ph="{...}" />
+                <marker date="1562312836756" expanded="true" signature="96:762" ph="{...}" />
+                <marker date="1562312836756" expanded="true" signature="158:756" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,12 +136,12 @@
       <workItem from="1562222821784" duration="181000" />
       <workItem from="1562223039419" duration="91000" />
       <workItem from="1562223154194" duration="556000" />
-      <workItem from="1562310747603" duration="1844000" />
+      <workItem from="1562310747603" duration="2088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2672000" />
+    <option name="totallyTimeSpent" value="2916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,13 +202,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DiceGame/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="252">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
-            <marker date="1562312589162" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562312589162" expanded="true" signature="67:640" ph="{...}" />
-            <marker date="1562312589162" expanded="true" signature="96:638" ph="{...}" />
-            <marker date="1562312589162" expanded="true" signature="158:632" ph="{...}" />
+            <marker date="1562312836756" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562312836756" expanded="true" signature="67:764" ph="{...}" />
+            <marker date="1562312836756" expanded="true" signature="96:762" ph="{...}" />
+            <marker date="1562312836756" expanded="true" signature="158:756" ph="{...}" />
           </folding>
         </state>
       </provider>
