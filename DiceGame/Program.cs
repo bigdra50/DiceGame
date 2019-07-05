@@ -24,7 +24,7 @@ namespace DiceGame
             
             
             Console.WriteLine($"Total value: {total}");
-            Console.WriteLine(total > 7 ? "You won": "You lost");
+            Console.WriteLine(total > 7 ? $"{name} won": $"{name} lost");
         }
     }
 }
