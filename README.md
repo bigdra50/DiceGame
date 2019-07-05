@@ -1,3 +1,3 @@
 # Dice Game  
 
-intryduction to Data Manegement
+introduction to Data Management
