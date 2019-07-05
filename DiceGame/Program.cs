@@ -17,14 +17,16 @@ namespace DiceGame
 
             var dice1 = seed.Next(2, 7);
             var dice2 = seed.Next(2, 7);
-            var total = dice1 + dice2;
+            var dice3 = seed.Next(2, 7);
+            var total = dice1 + dice2 + dice3;
 
             Console.WriteLine($"Die 1: {dice1}");
             Console.WriteLine($"Die 2: {dice2}");
+            Console.WriteLine($"Die 3: {dice3}");
             
             
             Console.WriteLine($"Total value: {total}");
-            Console.WriteLine(total > 7 ? $"{name} won": $"{name} lost");
+            Console.WriteLine(total > 12 ? $"{name} won": $"{name} lost");
         }
     }
 }
