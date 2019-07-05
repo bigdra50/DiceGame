@@ -8,7 +8,11 @@ namespace DiceGame
         
         public static void Main(string[] args)
         {
-            var seed = new System.Random((int)DateTime.Now.Ticks);
+            Console.WriteLine("What is your name?");
+            var name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}!");
+            
+            var seed = new Random((int)DateTime.Now.Ticks);
             Console.WriteLine("Rolling the dice...");
 
             var dice1 = seed.Next(2, 7);
